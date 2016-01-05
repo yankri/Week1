@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.exe.config
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.pdb

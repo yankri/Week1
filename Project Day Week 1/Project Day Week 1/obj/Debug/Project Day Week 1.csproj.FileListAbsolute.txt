@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\bin\Debug\Project Day Week 1.exe.config
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\bin\Debug\Project Day Week 1.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\bin\Debug\Project Day Week 1.pdb
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\obj\Debug\Project Day Week 1.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\obj\Debug\Project Day Week 1.exe
+C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project Day Week 1\obj\Debug\Project Day Week 1.pdb
