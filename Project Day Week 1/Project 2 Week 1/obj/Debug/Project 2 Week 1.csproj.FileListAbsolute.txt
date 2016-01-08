@@ -3,3 +3,8 @@ C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project 2 W
 C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project 2 Week 1\bin\Debug\Project 2 Week 1.pdb
 C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project 2 Week 1\obj\Debug\Project 2 Week 1.exe
 C:\Users\WeCanCodeIT\Documents\CSharpPlayersGuide\Project Day Week 1\Project 2 Week 1\obj\Debug\Project 2 Week 1.pdb
+C:\Users\WeCanCodeIT\Documents\Week 1\Project Day Week 1\Project 2 Week 1\bin\Debug\Project 2 Week 1.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 1\Project Day Week 1\Project 2 Week 1\obj\Debug\Project 2 Week 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 1\Project Day Week 1\Project 2 Week 1\obj\Debug\Project 2 Week 1.pdb
+C:\Users\WeCanCodeIT\Documents\Week 1\Project Day Week 1\Project 2 Week 1\bin\Debug\Project 2 Week 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 1\Project Day Week 1\Project 2 Week 1\bin\Debug\Project 2 Week 1.pdb
